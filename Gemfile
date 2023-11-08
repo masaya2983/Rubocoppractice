@@ -61,4 +61,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
   gem 'rubocop-minitest', require: false
   gem 'rubocop-packaging', require: false
   gem 'rubocop-rspec'
-  
+  gem 'devise'
